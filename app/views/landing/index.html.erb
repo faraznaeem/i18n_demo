@@ -1,0 +1,24 @@
+<div id='container'>
+  <%= link_to_unless_current "English", locale: "en"%>
+  <%= link_to_unless_current "Svenska", locale: "sv"%>
+</div>
+
+
+<h1><%= t('header.main')%></h1>
+
+<button><%= t('press.submit')%></button>
+<div>
+  <h5>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+    Repellat architecto eius, quisquam tempora,
+    ab error doloremque libero ex, velit sequi assumenda. Facere ullam
+    dolorem nulla magnam quia, voluptas fugit est.</h5>
+</div>
+
+<ul>
+  <% @articles.each do |article| %>
+    <li>
+      <%= article.title %><br />
+      <%= article.content %>
+    </li>
+  <% end %>
+</ul>
