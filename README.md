@@ -1,24 +1,11 @@
-# README
+# Internationalization demonstration (I18n)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I held this demonstration for the students in Craft Academy which is a fullstack 12-week bootcamp.
 
-Things you may want to cover:
+The purpose was to show how to use I18n in a rails application.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+We covered:
+  - How to use I18n in the view
+  - How to add links to choose different languages
+  - How to edit a language yml-file
+  
