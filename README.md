@@ -11,3 +11,6 @@ We covered:
 
 I created a simple rails app and added basic gems.
 I also used test driven development to add some content for display purposes
+
+Video of the demo:
+https://www.youtube.com/watch?v=_LZH_bT7nB8
