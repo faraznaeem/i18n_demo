@@ -1,7 +1,7 @@
 en:
   header:
-    main: This is a very nice title
+    main: A nice Header
   press:
-    submit: Press the button please
-  second:
-    part: Like sand through the hourglass so are the days of our lives
+    submit: Press our little button
+  info:
+    description: Like sand through the hour glass, so are the days of our lives
