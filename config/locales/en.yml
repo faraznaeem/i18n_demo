@@ -1,5 +1,7 @@
 en:
   header:
-    main: Hello World
+    main: This is a very nice title
   press:
-    submit: Press the ol'e button
+    submit: Press the button please
+  second:
+    part: Like sand through the hourglass so are the days of our lives
